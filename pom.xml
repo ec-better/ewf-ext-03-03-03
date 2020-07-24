@@ -11,7 +11,7 @@
     <version>2.0.0</version>
   </parent>
   <description>archtype for pipeline EXT-03-03-03</description>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <properties>
     <summary>archetype for pipeline EXT-03-03-03</summary>
     <description>archtype for pipeline EXT-03-03-03</description>
